@@ -187,7 +187,7 @@ if st.sidebar.button("Get Recommendations"):
 
         # ======================================
         # 📊 RECOMMENDATIONS
-        # ======================================
+        # ---------------------------------------
         st.subheader("📊 Top Sector Recommendations")
 
         for rec in recommendations:
